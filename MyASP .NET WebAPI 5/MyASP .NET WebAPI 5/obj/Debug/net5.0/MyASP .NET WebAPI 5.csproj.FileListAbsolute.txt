@@ -1,0 +1,65 @@
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\appsettings.Development.json
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\appsettings.json
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\MyASP .NET WebAPI 5.exe
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\MyASP .NET WebAPI 5.deps.json
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\MyASP .NET WebAPI 5.runtimeconfig.json
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\MyASP .NET WebAPI 5.runtimeconfig.dev.json
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\MyASP .NET WebAPI 5.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\MyASP .NET WebAPI 5.pdb
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\MyASP .NET WebAPI 5.csproj.AssemblyReference.cache
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\MyASP .NET WebAPI 5.GeneratedMSBuildEditorConfig.editorconfig
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\MyASP .NET WebAPI 5.AssemblyInfoInputs.cache
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\MyASP .NET WebAPI 5.AssemblyInfo.cs
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\MyASP .NET WebAPI 5.csproj.CoreCompileInputs.cache
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\MyASP .NET WebAPI 5.MvcApplicationPartsAssemblyInfo.cs
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\MyASP .NET WebAPI 5.MvcApplicationPartsAssemblyInfo.cache
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\scopedcss\bundle\MyASP .NET WebAPI 5.styles.css
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\staticwebassets\MyASP .NET WebAPI 5.StaticWebAssets.Manifest.cache
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\staticwebassets\MyASP .NET WebAPI 5.StaticWebAssets.Pack.cache
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\staticwebassets\msbuild.MyASP .NET WebAPI 5.Microsoft.AspNetCore.StaticWebAssets.props
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\staticwebassets\msbuild.build.MyASP .NET WebAPI 5.props
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MyASP .NET WebAPI 5.props
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MyASP .NET WebAPI 5.props
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\MyASP .NET WebAPI 5.RazorTargetAssemblyInfo.cache
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\MyASP .NET WebAPI 5.csproj.CopyComplete
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\MyASP .NET WebAPI 5.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\refint\MyASP .NET WebAPI 5.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\MyASP .NET WebAPI 5.pdb
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\MyASP .NET WebAPI 5.genruntimeconfig.cache
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\obj\Debug\net5.0\ref\MyASP .NET WebAPI 5.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Humanizer.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\C_Sharp\ASP NET WEB API\MyASP .NET WebAPI 5\MyASP .NET WebAPI 5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
