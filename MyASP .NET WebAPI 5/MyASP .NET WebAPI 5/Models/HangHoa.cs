@@ -17,4 +17,12 @@ namespace MyASP_.NET_WebAPI_5.Models
     {
         public Guid MaHangHoa { get; set; }
     }
+
+    public class HangHoaModel
+    {
+        public Guid MaHangHoa { get; set; }
+        public string TenHangHoa{ get; set; }
+        public string DonGia { get; set; }
+        public string TenLoai { get; set; }
+    }
 }

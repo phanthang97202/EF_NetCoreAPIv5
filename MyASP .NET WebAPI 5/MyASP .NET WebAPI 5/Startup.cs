@@ -43,6 +43,9 @@ namespace MyASP_.NET_WebAPI_5
             //đăng kí dependence injection 
             services.AddScoped<ILoaiRepository, LoaiRepository>();
 
+
+            services.AddScoped<IHangHoaRepository, HangHoaRepository>();
+
             //thêm dịch vụ Swagger vào container. Dịch vụ này được cấu hình để tạo tài liệu API sử dụng Swagger UI.
             services.AddSwaggerGen(c =>
             {
